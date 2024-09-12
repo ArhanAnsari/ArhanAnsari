@@ -199,8 +199,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/AI-powered-web-app/pull/1) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
-2. 🗣 Commented on [#1](https://github.com/ParthJohri/ParthJohri/pull/1#issuecomment-2267439196) in [ParthJohri/ParthJohri](https://github.com/ParthJohri/ParthJohri)
+1. 💪 Opened PR [#10](https://github.com/adrianhajdin/podcastr/pull/10) in [adrianhajdin/podcastr](https://github.com/adrianhajdin/podcastr)
+2. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/AI-powered-web-app/pull/1) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
 3. 🗣 Commented on [#128](https://github.com/newwwie/newwwie.com/pull/128#issuecomment-2258763293) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
 4. 💪 Opened PR [#128](https://github.com/newwwie/newwwie.com/pull/128) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
 5. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2242632304) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
