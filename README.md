@@ -189,11 +189,13 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-0-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-3-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-
+1. 🥳 Merged PR [8](https://github.com/ArhanAnsari/chadnext/pull/8) - [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+2. 🎉 Merged PR [7](https://github.com/ArhanAnsari/chadnext/pull/7) - [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+3. 🎊 Merged PR [6](https://github.com/ArhanAnsari/chadnext/pull/6) - [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
