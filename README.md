@@ -201,11 +201,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ArhanAnsari/chadnext/pull/5) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-2. 🗣 Commented on [#5](https://github.com/ArhanAnsari/chadnext/pull/5#issuecomment-2351398038) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-3. 🎉 Merged PR [#4](https://github.com/ArhanAnsari/chadnext/pull/4) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-4. 🎉 Merged PR [#3](https://github.com/ArhanAnsari/chadnext/pull/3) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-5. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/chadnext/pull/2) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+1. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/chadnext/pull/8) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+2. 💪 Opened PR [#8](https://github.com/ArhanAnsari/chadnext/pull/8) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+3. 🎉 Merged PR [#7](https://github.com/ArhanAnsari/chadnext/pull/7) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+4. 💪 Opened PR [#7](https://github.com/ArhanAnsari/chadnext/pull/7) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+5. 🎉 Merged PR [#6](https://github.com/ArhanAnsari/chadnext/pull/6) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
 <!--END_SECTION:activity-->
 
 
