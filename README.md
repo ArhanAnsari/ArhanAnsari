@@ -189,15 +189,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-8-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-10-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [5](https://github.com/ArhanAnsari/AI-powered-web-app/pull/5) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
-2. 🎉 Merged PR [9](https://github.com/ArhanAnsari/chadnext/pull/9) - [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-3. 🎊 Merged PR [4](https://github.com/ArhanAnsari/AI-powered-web-app/pull/4) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
-4. 🥂 Merged PR [3](https://github.com/ArhanAnsari/AI-powered-web-app/pull/3) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
-5. 🙌🏼 Merged PR [2](https://github.com/ArhanAnsari/AI-powered-web-app/pull/2) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+1. 🥳 Merged PR [7](https://github.com/ArhanAnsari/AI-powered-web-app/pull/7) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+2. 🎉 Merged PR [6](https://github.com/ArhanAnsari/AI-powered-web-app/pull/6) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+3. 🎊 Merged PR [5](https://github.com/ArhanAnsari/AI-powered-web-app/pull/5) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+4. 🥂 Merged PR [9](https://github.com/ArhanAnsari/chadnext/pull/9) - [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
+5. 🙌🏼 Merged PR [4](https://github.com/ArhanAnsari/AI-powered-web-app/pull/4) - [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
