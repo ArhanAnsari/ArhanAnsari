@@ -203,11 +203,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ArhanAnsari/AI-powered-web-app/pull/5) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
-2. 💪 Opened PR [#5](https://github.com/ArhanAnsari/AI-powered-web-app/pull/5) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
-3. 🎉 Merged PR [#9](https://github.com/ArhanAnsari/chadnext/pull/9) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-4. 💪 Opened PR [#9](https://github.com/ArhanAnsari/chadnext/pull/9) in [ArhanAnsari/chadnext](https://github.com/ArhanAnsari/chadnext)
-5. 🎉 Merged PR [#4](https://github.com/ArhanAnsari/AI-powered-web-app/pull/4) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+1. 🎉 Merged PR [#7](https://github.com/ArhanAnsari/AI-powered-web-app/pull/7) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+2. 💪 Opened PR [#7](https://github.com/ArhanAnsari/AI-powered-web-app/pull/7) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+3. 🎉 Merged PR [#6](https://github.com/ArhanAnsari/AI-powered-web-app/pull/6) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+4. 💪 Opened PR [#6](https://github.com/ArhanAnsari/AI-powered-web-app/pull/6) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
+5. 🎉 Merged PR [#5](https://github.com/ArhanAnsari/AI-powered-web-app/pull/5) in [ArhanAnsari/AI-powered-web-app](https://github.com/ArhanAnsari/AI-powered-web-app)
 <!--END_SECTION:activity-->
 
 
