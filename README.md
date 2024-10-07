@@ -1,4 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Arhan Ansari</h2>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7¢er=true&vCenter=true&width=600&lines=Welcome,+I+am+Arhan+Ansari;AKA+CodeWithArhan;I+am+a+full+stack+web+developer)
+
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ArhanAnsari&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 Fullstack Developer
@@ -62,6 +65,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   #### Libraries/Frameworks
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -74,6 +78,31 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+   #### AI/ML 
+   ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+   ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white) 
+   ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+   ![Anthropic](https://img.shields.io/badge/-Anthropic-000000?style=flat-square&logo=a&logoColor=white) 
+   ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+  #### Cloud Platforms 
+  ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) 
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) 
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+  #### DevOps Tools 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+  
+  #### IDEs/Tools 
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  
   #### Deployment
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -145,7 +174,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   ### Codeforces
   <div align="center">
     <a href="https://codeforces.com/profile/ArhanAnsari">
-      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ArhanAnsari&theme=github_dark&force_username=true&border_color=404040" alt="Binary Solver Codeforces Stats"/>
+      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ArhanAnsari&theme=github_dark&force_username=true&border_color=404040" alt="Arhan Ansari Codeforces Stats"/>
     </a>
   </div>
   
@@ -156,6 +185,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
    ![](https://github-readme-streak-stats.herokuapp.com/?user=ArhanAnsari&theme=tokyonight&hide_border=false)<br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhanAnsari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
    ![](https://github-readme-activity-graph.vercel.app/graph?username=ArhanAnsari&theme=tokyo-night)
+   ### 🏆 GitHub Trophies
+   ![trophy](https://github-profile-trophy.vercel.app/?username=ArhanAnsari&theme=monokai&row=1&column=8)
 
   </div>
 </details>
