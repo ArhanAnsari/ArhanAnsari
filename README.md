@@ -187,7 +187,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
    ![](https://github-readme-activity-graph.vercel.app/graph?username=ArhanAnsari&theme=tokyo-night)
    ### 🏆 GitHub Trophies
    ![trophy](https://github-profile-trophy.vercel.app/?username=ArhanAnsari&theme=monokai&row=1&column=8)
-
   </div>
 </details>
 
