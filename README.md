@@ -219,15 +219,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-106-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-109-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [123](https://github.com/ArhanAnsari/InspireGem/pull/123) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-2. 🎉 Merged PR [1](https://github.com/ArhanAnsari/yc_directory/pull/1) - [ArhanAnsari/yc_directory](https://github.com/ArhanAnsari/yc_directory)
-3. 🎊 Merged PR [122](https://github.com/ArhanAnsari/InspireGem/pull/122) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-4. 🥂 Merged PR [121](https://github.com/ArhanAnsari/InspireGem/pull/121) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-5. 🙌🏼 Merged PR [120](https://github.com/ArhanAnsari/InspireGem/pull/120) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+1. 🥳 Merged PR [124](https://github.com/ArhanAnsari/InspireGem/pull/124) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+2. 🎉 Merged PR [3](https://github.com/ArhanAnsari/yc_directory/pull/3) - [ArhanAnsari/yc_directory](https://github.com/ArhanAnsari/yc_directory)
+3. 🎊 Merged PR [2](https://github.com/ArhanAnsari/yc_directory/pull/2) - [ArhanAnsari/yc_directory](https://github.com/ArhanAnsari/yc_directory)
+4. 🥂 Merged PR [123](https://github.com/ArhanAnsari/InspireGem/pull/123) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+5. 🙌🏼 Merged PR [1](https://github.com/ArhanAnsari/yc_directory/pull/1) - [ArhanAnsari/yc_directory](https://github.com/ArhanAnsari/yc_directory)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
