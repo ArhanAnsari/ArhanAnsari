@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/ArhanAnsari/InspireGem/pull/139) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-2. 💪 Opened PR [#139](https://github.com/ArhanAnsari/InspireGem/pull/139) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-3. 🎉 Merged PR [#135](https://github.com/ArhanAnsari/InspireGem/pull/135) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-4. 💪 Opened PR [#135](https://github.com/ArhanAnsari/InspireGem/pull/135) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-5. 🎉 Merged PR [#134](https://github.com/ArhanAnsari/InspireGem/pull/134) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+1. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2466176847) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+2. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2466176017) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+3. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2466159615) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+4. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2466158713) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+5. ❗ Opened issue [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
 <!--END_SECTION:activity-->
 
 
