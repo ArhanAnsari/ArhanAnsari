@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-129-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-130-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [6](https://github.com/ArhanAnsari/storage_management_solution/pull/6) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-2. 🎉 Merged PR [5](https://github.com/ArhanAnsari/storage_management_solution/pull/5) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-3. 🎊 Merged PR [4](https://github.com/ArhanAnsari/storage_management_solution/pull/4) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-4. 🥂 Merged PR [3](https://github.com/ArhanAnsari/storage_management_solution/pull/3) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-5. 🙌🏼 Merged PR [2](https://github.com/ArhanAnsari/storage_management_solution/pull/2) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+1. 🥳 Merged PR [7](https://github.com/ArhanAnsari/storage_management_solution/pull/7) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+2. 🎉 Merged PR [6](https://github.com/ArhanAnsari/storage_management_solution/pull/6) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+3. 🎊 Merged PR [5](https://github.com/ArhanAnsari/storage_management_solution/pull/5) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+4. 🥂 Merged PR [4](https://github.com/ArhanAnsari/storage_management_solution/pull/4) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+5. 🙌🏼 Merged PR [3](https://github.com/ArhanAnsari/storage_management_solution/pull/3) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
