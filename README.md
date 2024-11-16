@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ArhanAnsari/storage_management_solution/pull/3) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-2. 💪 Opened PR [#3](https://github.com/ArhanAnsari/storage_management_solution/pull/3) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-3. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/storage_management_solution/pull/2) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-4. 💪 Opened PR [#2](https://github.com/ArhanAnsari/storage_management_solution/pull/2) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-5. 🗣 Commented on [#9](https://github.com/adrianhajdin/storage_management_solution/issues/9#issuecomment-2476206707) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+1. 🎉 Merged PR [#6](https://github.com/ArhanAnsari/storage_management_solution/pull/6) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+2. 💪 Opened PR [#6](https://github.com/ArhanAnsari/storage_management_solution/pull/6) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+3. 🎉 Merged PR [#5](https://github.com/ArhanAnsari/storage_management_solution/pull/5) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+4. 💪 Opened PR [#5](https://github.com/ArhanAnsari/storage_management_solution/pull/5) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+5. 🎉 Merged PR [#4](https://github.com/ArhanAnsari/storage_management_solution/pull/4) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
 <!--END_SECTION:activity-->
 
 
