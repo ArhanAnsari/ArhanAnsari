@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ArhanAnsari/storage_management_solution/pull/7) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-2. 💪 Opened PR [#7](https://github.com/ArhanAnsari/storage_management_solution/pull/7) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-3. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2480428087) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
-4. 🔒 Closed issue [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
-5. 🎉 Merged PR [#6](https://github.com/ArhanAnsari/storage_management_solution/pull/6) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+1. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+2. 💪 Opened PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+3. 🎉 Merged PR [#143](https://github.com/ArhanAnsari/InspireGem/pull/143) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+4. 💪 Opened PR [#143](https://github.com/ArhanAnsari/InspireGem/pull/143) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+5. 🎉 Merged PR [#142](https://github.com/ArhanAnsari/InspireGem/pull/142) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
 <!--END_SECTION:activity-->
 
 
