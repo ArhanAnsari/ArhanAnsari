@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2481224292) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
-2. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-3. 💪 Opened PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-4. 🎉 Merged PR [#143](https://github.com/ArhanAnsari/InspireGem/pull/143) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-5. 💪 Opened PR [#143](https://github.com/ArhanAnsari/InspireGem/pull/143) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+1. ❌ Closed PR [#144](https://github.com/ArhanAnsari/InspireGem/pull/144) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+2. 💪 Opened PR [#144](https://github.com/ArhanAnsari/InspireGem/pull/144) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+3. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2481224292) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+4. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+5. 💪 Opened PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
 <!--END_SECTION:activity-->
 
 
