@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#144](https://github.com/ArhanAnsari/InspireGem/pull/144) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-2. 💪 Opened PR [#144](https://github.com/ArhanAnsari/InspireGem/pull/144) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-3. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2481224292) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
-4. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-5. 💪 Opened PR [#8](https://github.com/ArhanAnsari/storage_management_solution/pull/8) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+1. ❌ Closed PR [#146](https://github.com/ArhanAnsari/InspireGem/pull/146) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+2. 💪 Opened PR [#146](https://github.com/ArhanAnsari/InspireGem/pull/146) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+3. 🎉 Merged PR [#145](https://github.com/ArhanAnsari/InspireGem/pull/145) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+4. 💪 Opened PR [#145](https://github.com/ArhanAnsari/InspireGem/pull/145) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+5. ❌ Closed PR [#144](https://github.com/ArhanAnsari/InspireGem/pull/144) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
 <!--END_SECTION:activity-->
 
 
