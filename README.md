@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/ArhanAnsari/InspireGem/pull/148) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-2. 💪 Opened PR [#148](https://github.com/ArhanAnsari/InspireGem/pull/148) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-3. 🎉 Merged PR [#147](https://github.com/ArhanAnsari/InspireGem/pull/147) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-4. 💪 Opened PR [#147](https://github.com/ArhanAnsari/InspireGem/pull/147) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-5. ❌ Closed PR [#146](https://github.com/ArhanAnsari/InspireGem/pull/146) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+1. 💪 Opened PR [#10](https://github.com/adrianhajdin/nike_landing_page/pull/10) in [adrianhajdin/nike_landing_page](https://github.com/adrianhajdin/nike_landing_page)
+2. 🎉 Merged PR [#9](https://github.com/ArhanAnsari/storage_management_solution/pull/9) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+3. 💪 Opened PR [#9](https://github.com/ArhanAnsari/storage_management_solution/pull/9) in [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+4. 🎉 Merged PR [#148](https://github.com/ArhanAnsari/InspireGem/pull/148) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+5. 💪 Opened PR [#148](https://github.com/ArhanAnsari/InspireGem/pull/148) in [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
 <!--END_SECTION:activity-->
 
 
