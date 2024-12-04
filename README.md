@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-140-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-141-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [10](https://github.com/ArhanAnsari/storage_management_solution/pull/10) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-2. 🎉 Merged PR [9](https://github.com/ArhanAnsari/storage_management_solution/pull/9) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
-3. 🎊 Merged PR [148](https://github.com/ArhanAnsari/InspireGem/pull/148) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-4. 🥂 Merged PR [147](https://github.com/ArhanAnsari/InspireGem/pull/147) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
-5. 🙌🏼 Merged PR [145](https://github.com/ArhanAnsari/InspireGem/pull/145) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+1. 🥳 Merged PR [149](https://github.com/ArhanAnsari/InspireGem/pull/149) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+2. 🎉 Merged PR [10](https://github.com/ArhanAnsari/storage_management_solution/pull/10) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+3. 🎊 Merged PR [9](https://github.com/ArhanAnsari/storage_management_solution/pull/9) - [ArhanAnsari/storage_management_solution](https://github.com/ArhanAnsari/storage_management_solution)
+4. 🥂 Merged PR [148](https://github.com/ArhanAnsari/InspireGem/pull/148) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
+5. 🙌🏼 Merged PR [147](https://github.com/ArhanAnsari/InspireGem/pull/147) - [ArhanAnsari/InspireGem](https://github.com/ArhanAnsari/InspireGem)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
