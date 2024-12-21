@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CodeFount v1.0.0 - Ignite Your Coding Journey](https://github.com/ArhanAnsari/CodeFount/releases/tag/v1.0.0) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-2. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/CodeFount/pull/1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-3. 💪 Opened PR [#1](https://github.com/ArhanAnsari/CodeFount/pull/1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-4. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/ImmersiLearn/pull/2) in [ArhanAnsari/ImmersiLearn](https://github.com/ArhanAnsari/ImmersiLearn)
-5. 💪 Opened PR [#2](https://github.com/ArhanAnsari/ImmersiLearn/pull/2) in [ArhanAnsari/ImmersiLearn](https://github.com/ArhanAnsari/ImmersiLearn)
+1. 🗣 Commented on [#6](https://github.com/adrianhajdin/storage_management_solution/issues/6#issuecomment-2558097290) in [adrianhajdin/storage_management_solution](https://github.com/adrianhajdin/storage_management_solution)
+2. 🚀 Published release [CodeFount v1.0.0 - Ignite Your Coding Journey](https://github.com/ArhanAnsari/CodeFount/releases/tag/v1.0.0) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+3. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/CodeFount/pull/1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+4. 💪 Opened PR [#1](https://github.com/ArhanAnsari/CodeFount/pull/1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+5. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/ImmersiLearn/pull/2) in [ArhanAnsari/ImmersiLearn](https://github.com/ArhanAnsari/ImmersiLearn)
 <!--END_SECTION:activity-->
 
 
