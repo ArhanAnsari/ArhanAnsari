@@ -25,7 +25,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-  <span><img src="https://img.shields.io/badge/10th-Shri Rajendra High School-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/9th-Shri Rajendra High School-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/Year-2025-EFEEE9?style=for-the-badge"></span>
   
 </details>
