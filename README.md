@@ -236,10 +236,10 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/codewithmanas/all-react-hooks-docs/pull/1) in [codewithmanas/all-react-hooks-docs](https://github.com/codewithmanas/all-react-hooks-docs)
-2. 🎉 Merged PR [#4](https://github.com/ArhanAnsari/Clicker-Game/pull/4) in [ArhanAnsari/Clicker-Game](https://github.com/ArhanAnsari/Clicker-Game)
-3. 🚀 Published release [CodeFount v1.0.0 - Ignite Your Coding Journey](https://github.com/ArhanAnsari/CodeFount/releases/tag/v1.0.0) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-4. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/CodeFount/pull/1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+1. 🎉 Merged PR [#7](https://github.com/ArhanAnsari/CodeFount/pull/7) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+2. 💪 Opened PR [#7](https://github.com/ArhanAnsari/CodeFount/pull/7) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+3. 💪 Opened PR [#1](https://github.com/codewithmanas/all-react-hooks-docs/pull/1) in [codewithmanas/all-react-hooks-docs](https://github.com/codewithmanas/all-react-hooks-docs)
+4. 🎉 Merged PR [#4](https://github.com/ArhanAnsari/Clicker-Game/pull/4) in [ArhanAnsari/Clicker-Game](https://github.com/ArhanAnsari/Clicker-Game)
 5. 💪 Opened PR [#1](https://github.com/ArhanAnsari/CodeFount/pull/1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
 <!--END_SECTION:activity-->
 
