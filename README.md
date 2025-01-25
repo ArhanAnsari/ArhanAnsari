@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/ArhanAnsari/CodeFount/pull/10) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-2. 🚀 Published release [Release Notes: CodeFount v1.0.1 🚀](https://github.com/ArhanAnsari/CodeFount/releases/tag/v1.0.1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-3. 🎉 Merged PR [#9](https://github.com/ArhanAnsari/CodeFount/pull/9) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-4. 💪 Opened PR [#9](https://github.com/ArhanAnsari/CodeFount/pull/9) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-5. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/CodeFount/pull/8) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+1. 🎉 Merged PR [#10](https://github.com/ArhanAnsari/CodeFount/pull/10) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+2. 💪 Opened PR [#10](https://github.com/ArhanAnsari/CodeFount/pull/10) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+3. 🚀 Published release [Release Notes: CodeFount v1.0.1 🚀](https://github.com/ArhanAnsari/CodeFount/releases/tag/v1.0.1) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+4. 🎉 Merged PR [#9](https://github.com/ArhanAnsari/CodeFount/pull/9) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+5. 💪 Opened PR [#9](https://github.com/ArhanAnsari/CodeFount/pull/9) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
 <!--END_SECTION:activity-->
 
 
