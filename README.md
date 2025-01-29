@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-156-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-157-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [9](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/9) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-2. 🎉 Merged PR [8](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/8) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-3. 🎊 Merged PR [7](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/7) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-4. 🥂 Merged PR [6](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/6) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-5. 🙌🏼 Merged PR [10](https://github.com/ArhanAnsari/CodeFount/pull/10) - [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+1. 🥳 Merged PR [11](https://github.com/ArhanAnsari/CodeFount/pull/11) - [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+2. 🎉 Merged PR [9](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/9) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+3. 🎊 Merged PR [8](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/8) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+4. 🥂 Merged PR [7](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/7) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+5. 🙌🏼 Merged PR [6](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/6) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
