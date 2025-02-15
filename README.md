@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/ArhanAnsari/CodeFount/pull/19) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-2. 💪 Opened PR [#19](https://github.com/ArhanAnsari/CodeFount/pull/19) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-3. 🎉 Merged PR [#18](https://github.com/ArhanAnsari/CodeFount/pull/18) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-4. 💪 Opened PR [#18](https://github.com/ArhanAnsari/CodeFount/pull/18) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-5. 🎉 Merged PR [#17](https://github.com/ArhanAnsari/CodeFount/pull/17) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+1. 💪 Opened PR [#20012](https://github.com/is-a-dev/register/pull/20012) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🎉 Merged PR [#19](https://github.com/ArhanAnsari/CodeFount/pull/19) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+3. 💪 Opened PR [#19](https://github.com/ArhanAnsari/CodeFount/pull/19) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+4. 🎉 Merged PR [#18](https://github.com/ArhanAnsari/CodeFount/pull/18) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+5. 💪 Opened PR [#18](https://github.com/ArhanAnsari/CodeFount/pull/18) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
 <!--END_SECTION:activity-->
 
 
