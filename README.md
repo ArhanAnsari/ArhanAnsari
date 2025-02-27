@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-166-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-168-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [20446](https://github.com/is-a-dev/register/pull/20446) - [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🎉 Merged PR [20284](https://github.com/is-a-dev/register/pull/20284) - [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎊 Merged PR [20012](https://github.com/is-a-dev/register/pull/20012) - [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🥂 Merged PR [19](https://github.com/ArhanAnsari/CodeFount/pull/19) - [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
-5. 🙌🏼 Merged PR [18](https://github.com/ArhanAnsari/CodeFount/pull/18) - [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+1. 🥳 Merged PR [20615](https://github.com/is-a-dev/register/pull/20615) - [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🎉 Merged PR [1](https://github.com/ArhanAnsari/clipgen-ai/pull/1) - [ArhanAnsari/clipgen-ai](https://github.com/ArhanAnsari/clipgen-ai)
+3. 🎊 Merged PR [20446](https://github.com/is-a-dev/register/pull/20446) - [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🥂 Merged PR [20284](https://github.com/is-a-dev/register/pull/20284) - [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🙌🏼 Merged PR [20012](https://github.com/is-a-dev/register/pull/20012) - [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
