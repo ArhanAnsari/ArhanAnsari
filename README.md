@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20446](https://github.com/is-a-dev/register/pull/20446#issuecomment-2676305683) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#20446](https://github.com/is-a-dev/register/pull/20446#issuecomment-2676219468) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#20446](https://github.com/is-a-dev/register/pull/20446) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#20012](https://github.com/is-a-dev/register/pull/20012) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#19](https://github.com/ArhanAnsari/CodeFount/pull/19) in [ArhanAnsari/CodeFount](https://github.com/ArhanAnsari/CodeFount)
+1. 🗣 Commented on [#20615](https://github.com/is-a-dev/register/pull/20615#issuecomment-2687568573) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#20615](https://github.com/is-a-dev/register/pull/20615) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#20446](https://github.com/is-a-dev/register/pull/20446#issuecomment-2676305683) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#20446](https://github.com/is-a-dev/register/pull/20446#issuecomment-2676219468) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#20446](https://github.com/is-a-dev/register/pull/20446) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 
