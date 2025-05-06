@@ -236,9 +236,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/adrianhajdin/react-native-movie-app/issues/2#issuecomment-2709639979) in [adrianhajdin/react-native-movie-app](https://github.com/adrianhajdin/react-native-movie-app)
-2. 🗣 Commented on [#20615](https://github.com/is-a-dev/register/pull/20615#issuecomment-2687568573) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#20615](https://github.com/is-a-dev/register/pull/20615) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#3](https://github.com/aaizacosmetics/rkmarketing/pull/3) in [aaizacosmetics/rkmarketing](https://github.com/aaizacosmetics/rkmarketing)
+2. 💪 Opened PR [#2](https://github.com/aaizacosmetics/rkmarketing/pull/2) in [aaizacosmetics/rkmarketing](https://github.com/aaizacosmetics/rkmarketing)
+3. 💪 Opened PR [#1](https://github.com/aaizacosmetics/rkmarketing/pull/1) in [aaizacosmetics/rkmarketing](https://github.com/aaizacosmetics/rkmarketing)
 4. 🗣 Commented on [#20446](https://github.com/is-a-dev/register/pull/20446#issuecomment-2676305683) in [is-a-dev/register](https://github.com/is-a-dev/register)
 5. 🗣 Commented on [#20446](https://github.com/is-a-dev/register/pull/20446#issuecomment-2676219468) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
