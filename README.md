@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-173-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-177-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [2](https://github.com/ArhanAnsari/CanvasCraft/pull/2) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-2. 🎉 Merged PR [1](https://github.com/ArhanAnsari/CanvasCraft/pull/1) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-3. 🎊 Merged PR [3](https://github.com/aaizacosmetics/rkmarketing/pull/3) - [aaizacosmetics/rkmarketing](https://github.com/aaizacosmetics/rkmarketing)
-4. 🥂 Merged PR [2](https://github.com/aaizacosmetics/rkmarketing/pull/2) - [aaizacosmetics/rkmarketing](https://github.com/aaizacosmetics/rkmarketing)
-5. 🙌🏼 Merged PR [2](https://github.com/ArhanAnsari/clipgen-ai/pull/2) - [ArhanAnsari/clipgen-ai](https://github.com/ArhanAnsari/clipgen-ai)
+1. 🥳 Merged PR [6](https://github.com/ArhanAnsari/CanvasCraft/pull/6) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+2. 🎉 Merged PR [5](https://github.com/ArhanAnsari/CanvasCraft/pull/5) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+3. 🎊 Merged PR [4](https://github.com/ArhanAnsari/CanvasCraft/pull/4) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+4. 🥂 Merged PR [3](https://github.com/ArhanAnsari/CanvasCraft/pull/3) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+5. 🙌🏼 Merged PR [2](https://github.com/ArhanAnsari/CanvasCraft/pull/2) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
