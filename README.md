@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/CanvasCraft/pull/8) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-2. 💪 Opened PR [#8](https://github.com/ArhanAnsari/CanvasCraft/pull/8) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-3. 🎉 Merged PR [#7](https://github.com/ArhanAnsari/CanvasCraft/pull/7) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-4. 💪 Opened PR [#7](https://github.com/ArhanAnsari/CanvasCraft/pull/7) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-5. 🎉 Merged PR [#6](https://github.com/ArhanAnsari/CanvasCraft/pull/6) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+1. 🎉 Merged PR [#9](https://github.com/ArhanAnsari/CanvasCraft/pull/9) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+2. 💪 Opened PR [#9](https://github.com/ArhanAnsari/CanvasCraft/pull/9) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+3. 🎉 Merged PR [#8](https://github.com/ArhanAnsari/CanvasCraft/pull/8) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+4. 💪 Opened PR [#8](https://github.com/ArhanAnsari/CanvasCraft/pull/8) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+5. 🎉 Merged PR [#7](https://github.com/ArhanAnsari/CanvasCraft/pull/7) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
 <!--END_SECTION:activity-->
 
 
