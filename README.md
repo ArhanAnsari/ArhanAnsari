@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-192-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-194-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [13](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/13) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-2. 🎉 Merged PR [19](https://github.com/ArhanAnsari/CanvasCraft/pull/19) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-3. 🎊 Merged PR [1](https://github.com/ArhanAnsari/skills-introduction-to-github/pull/1) - [ArhanAnsari/skills-introduction-to-github](https://github.com/ArhanAnsari/skills-introduction-to-github)
-4. 🥂 Merged PR [18](https://github.com/ArhanAnsari/CanvasCraft/pull/18) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-5. 🙌🏼 Merged PR [17](https://github.com/ArhanAnsari/CanvasCraft/pull/17) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+1. 🥳 Merged PR [15](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/15) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+2. 🎉 Merged PR [14](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/14) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+3. 🎊 Merged PR [13](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/13) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+4. 🥂 Merged PR [19](https://github.com/ArhanAnsari/CanvasCraft/pull/19) - [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+5. 🙌🏼 Merged PR [1](https://github.com/ArhanAnsari/skills-introduction-to-github/pull/1) - [ArhanAnsari/skills-introduction-to-github](https://github.com/ArhanAnsari/skills-introduction-to-github)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
