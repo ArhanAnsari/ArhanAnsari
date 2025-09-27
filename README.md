@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/ArhanAnsari/CanvasCraft/pull/19) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-2. 💪 Opened PR [#19](https://github.com/ArhanAnsari/CanvasCraft/pull/19) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
-3. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/skills-introduction-to-github/pull/1) in [ArhanAnsari/skills-introduction-to-github](https://github.com/ArhanAnsari/skills-introduction-to-github)
-4. 💪 Opened PR [#1](https://github.com/ArhanAnsari/skills-introduction-to-github/pull/1) in [ArhanAnsari/skills-introduction-to-github](https://github.com/ArhanAnsari/skills-introduction-to-github)
-5. 🎉 Merged PR [#18](https://github.com/ArhanAnsari/CanvasCraft/pull/18) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
+1. 🎉 Merged PR [#15](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/15) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+2. 💪 Opened PR [#15](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/15) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+3. 🎉 Merged PR [#14](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/14) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+4. 💪 Opened PR [#14](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/14) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+5. 🎉 Merged PR [#19](https://github.com/ArhanAnsari/CanvasCraft/pull/19) in [ArhanAnsari/CanvasCraft](https://github.com/ArhanAnsari/CanvasCraft)
 <!--END_SECTION:activity-->
 
 
