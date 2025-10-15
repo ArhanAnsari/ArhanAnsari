@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/edusync/pull/2) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-2. 💪 Opened PR [#2](https://github.com/ArhanAnsari/edusync/pull/2) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-3. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/edusync/pull/1) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-4. 🎉 Merged PR [#15](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/15) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-5. 💪 Opened PR [#15](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/15) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+1. 💪 Opened PR [#2](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+2. ❌ Labeled PR [#1](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+3. 💪 Opened PR [#15](undefined) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+4. 💪 Opened PR [#14](undefined) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+5. 💪 Opened PR [#13](undefined) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
 <!--END_SECTION:activity-->
 
 
