@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](undefined) in [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
-2. 💪 Opened PR [#1](undefined) in [ArhanAnsari/hf2025-hackathon-submissions](https://github.com/ArhanAnsari/hf2025-hackathon-submissions)
-3. 💪 Opened PR [#2](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-4. ❌ Labeled PR [#1](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-5. 💪 Opened PR [#15](undefined) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+1. 💪 Opened PR [#2](undefined) in [ArhanAnsari/hf2025-hackathon-submissions](https://github.com/ArhanAnsari/hf2025-hackathon-submissions)
+2. 💪 Opened PR [#46](undefined) in [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
+3. 💪 Opened PR [#1](undefined) in [ArhanAnsari/hf2025-hackathon-submissions](https://github.com/ArhanAnsari/hf2025-hackathon-submissions)
+4. 💪 Opened PR [#2](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+5. ❌ Labeled PR [#1](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
 <!--END_SECTION:activity-->
 
 
