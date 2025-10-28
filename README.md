@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-201-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-203-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [7](https://github.com/ArhanAnsari/edusync/pull/7) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-2. 🎉 Merged PR [6](https://github.com/ArhanAnsari/edusync/pull/6) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-3. 🎊 Merged PR [5](https://github.com/ArhanAnsari/edusync/pull/5) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-4. 🥂 Merged PR [4](https://github.com/ArhanAnsari/edusync/pull/4) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-5. 🙌🏼 Merged PR [2](https://github.com/ArhanAnsari/hf2025-hackathon-submissions/pull/2) - [ArhanAnsari/hf2025-hackathon-submissions](https://github.com/ArhanAnsari/hf2025-hackathon-submissions)
+1. 🥳 Merged PR [9](https://github.com/ArhanAnsari/edusync/pull/9) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+2. 🎉 Merged PR [8](https://github.com/ArhanAnsari/edusync/pull/8) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+3. 🎊 Merged PR [7](https://github.com/ArhanAnsari/edusync/pull/7) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+4. 🥂 Merged PR [6](https://github.com/ArhanAnsari/edusync/pull/6) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+5. 🙌🏼 Merged PR [5](https://github.com/ArhanAnsari/edusync/pull/5) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
