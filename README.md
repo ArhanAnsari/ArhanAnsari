@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-2. 💪 Opened PR [#6](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-3. ❌ Assigned PR [#5](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-4. 💪 Opened PR [#5](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-5. 💪 Opened PR [#4](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+1. 💪 Opened PR [#9](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+2. 💪 Opened PR [#8](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+3. 💪 Opened PR [#7](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+4. 💪 Opened PR [#6](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+5. ❌ Assigned PR [#5](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
 <!--END_SECTION:activity-->
 
 
