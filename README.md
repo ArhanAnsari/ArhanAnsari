@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/ajayagrawalgit/MickTrace/issues/35#issuecomment-3466413648) in [ajayagrawalgit/MickTrace](https://github.com/ajayagrawalgit/MickTrace)
-2. ❌ Labeled PR [#11](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-3. ❌ Labeled PR [#11](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-4. ❌ Assigned PR [#11](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-5. ❌ Assigned PR [#11](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+1. ❌ Closed PR [#13](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+2. 🗣 Commented on [#12](https://github.com/ArhanAnsari/edusync/pull/12#issuecomment-3472562279) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+3. 🗣 Commented on [#12](https://github.com/ArhanAnsari/edusync/pull/12#issuecomment-3472537032) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+4. 💪 Opened PR [#12](undefined) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+5. 🗣 Commented on [#35](https://github.com/ajayagrawalgit/MickTrace/issues/35#issuecomment-3466413648) in [ajayagrawalgit/MickTrace](https://github.com/ajayagrawalgit/MickTrace)
 <!--END_SECTION:activity-->
 
 
