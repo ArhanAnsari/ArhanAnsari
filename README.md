@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-208-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-210-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [1](https://github.com/rajendrahighschool1953-stack/obstacle-code/pull/1) - [rajendrahighschool1953-stack/obstacle-code](https://github.com/rajendrahighschool1953-stack/obstacle-code)
-2. 🎉 Merged PR [17](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/17) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-3. 🎊 Merged PR [16](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/16) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-4. 🥂 Merged PR [12](https://github.com/ArhanAnsari/edusync/pull/12) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-5. 🙌🏼 Merged PR [11](https://github.com/ArhanAnsari/edusync/pull/11) - [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
+1. 🥳 Merged PR [2](https://github.com/ArhanAnsari/DesignFlow/pull/2) - [ArhanAnsari/DesignFlow](https://github.com/ArhanAnsari/DesignFlow)
+2. 🎉 Merged PR [1](https://github.com/ArhanAnsari/DesignFlow/pull/1) - [ArhanAnsari/DesignFlow](https://github.com/ArhanAnsari/DesignFlow)
+3. 🎊 Merged PR [1](https://github.com/rajendrahighschool1953-stack/obstacle-code/pull/1) - [rajendrahighschool1953-stack/obstacle-code](https://github.com/rajendrahighschool1953-stack/obstacle-code)
+4. 🥂 Merged PR [17](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/17) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+5. 🙌🏼 Merged PR [16](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/16) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
