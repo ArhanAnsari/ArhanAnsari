@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-210-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-216-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [2](https://github.com/ArhanAnsari/DesignFlow/pull/2) - [ArhanAnsari/DesignFlow](https://github.com/ArhanAnsari/DesignFlow)
-2. 🎉 Merged PR [1](https://github.com/ArhanAnsari/DesignFlow/pull/1) - [ArhanAnsari/DesignFlow](https://github.com/ArhanAnsari/DesignFlow)
-3. 🎊 Merged PR [1](https://github.com/rajendrahighschool1953-stack/obstacle-code/pull/1) - [rajendrahighschool1953-stack/obstacle-code](https://github.com/rajendrahighschool1953-stack/obstacle-code)
-4. 🥂 Merged PR [17](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/17) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-5. 🙌🏼 Merged PR [16](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/16) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+1. 🥳 Merged PR [8](https://github.com/swapnasahoo/cric-talk/pull/8) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
+2. 🎉 Merged PR [6](https://github.com/swapnasahoo/cric-talk/pull/6) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
+3. 🎊 Merged PR [5](https://github.com/swapnasahoo/cric-talk/pull/5) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
+4. 🥂 Merged PR [4](https://github.com/swapnasahoo/cric-talk/pull/4) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
+5. 🙌🏼 Merged PR [3](https://github.com/swapnasahoo/cric-talk/pull/3) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
