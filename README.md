@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4040982731) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-2. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4040656545) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-3. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4040424609) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-4. ℹ️ Labeled PR [#18](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/18) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-5. ❌ Merged PR [#1](undefined) in [rajendrahighschool1953-stack/obstacle-code](https://github.com/rajendrahighschool1953-stack/obstacle-code)
+1. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4046109225) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+2. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4040982731) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+3. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4040656545) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+4. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4040424609) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+5. ℹ️ Labeled PR [#18](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/18) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
 <!--END_SECTION:activity-->
 
 
