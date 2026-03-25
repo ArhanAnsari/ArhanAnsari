@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ArhanAnsari/InvoiceFlow/pull/1#issuecomment-4106356455) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
-2. 🗣 Commented on [#121](https://github.com/appwrite-community/hf2025-hackathon-submissions/issues/121#issuecomment-4082480184) in [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
-3. 🗣 Commented on [#121](https://github.com/appwrite-community/hf2025-hackathon-submissions/issues/121#issuecomment-4081640127) in [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
-4. 🎉 Merged PR [#14](https://github.com/ArhanAnsari/edusync/pull/14) in [ArhanAnsari/edusync](https://github.com/ArhanAnsari/edusync)
-5. 🗣 Commented on [#19](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/19#issuecomment-4046109225) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+1. 🚀 Published release [InvoiceFlow v1.0.4 — Stability Improvements, Sync Fixes & Core Enhancements](https://github.com/ArhanAnsari/InvoiceFlow/releases/tag/v1.0.4) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
+2. 🎉 Merged PR [#1](https://github.com/sparththaokar07/sparth-portfolio/pull/1) in [sparththaokar07/sparth-portfolio](https://github.com/sparththaokar07/sparth-portfolio)
+3. 💪 Opened PR [#1](https://github.com/sparththaokar07/sparth-portfolio/pull/1) in [sparththaokar07/sparth-portfolio](https://github.com/sparththaokar07/sparth-portfolio)
+4. 🗣 Commented on [#1](https://github.com/ArhanAnsari/InvoiceFlow/pull/1#issuecomment-4106356455) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
+5. 🗣 Commented on [#121](https://github.com/appwrite-community/hf2025-hackathon-submissions/issues/121#issuecomment-4082480184) in [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
 <!--END_SECTION:activity-->
 
 
