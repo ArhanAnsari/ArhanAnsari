@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [InvoiceFlow v1.0.4 — Stability Improvements, Sync Fixes & Core Enhancements](https://github.com/ArhanAnsari/InvoiceFlow/releases/tag/v1.0.4) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
-2. 🎉 Merged PR [#1](https://github.com/sparththaokar07/sparth-portfolio/pull/1) in [sparththaokar07/sparth-portfolio](https://github.com/sparththaokar07/sparth-portfolio)
-3. 💪 Opened PR [#1](https://github.com/sparththaokar07/sparth-portfolio/pull/1) in [sparththaokar07/sparth-portfolio](https://github.com/sparththaokar07/sparth-portfolio)
-4. 🗣 Commented on [#1](https://github.com/ArhanAnsari/InvoiceFlow/pull/1#issuecomment-4106356455) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
-5. 🗣 Commented on [#121](https://github.com/appwrite-community/hf2025-hackathon-submissions/issues/121#issuecomment-4082480184) in [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
+1. 🗣 Commented on [#1](https://github.com/ArhanAnsari/HRMate/pull/1#issuecomment-4156415141) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+2. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/HRMate/pull/2) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+3. 💪 Opened PR [#2](https://github.com/ArhanAnsari/HRMate/pull/2) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+4. 🚀 Published release [InvoiceFlow v1.0.4 — Stability Improvements, Sync Fixes & Core Enhancements](https://github.com/ArhanAnsari/InvoiceFlow/releases/tag/v1.0.4) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
+5. 🎉 Merged PR [#1](https://github.com/sparththaokar07/sparth-portfolio/pull/1) in [sparththaokar07/sparth-portfolio](https://github.com/sparththaokar07/sparth-portfolio)
 <!--END_SECTION:activity-->
 
 
