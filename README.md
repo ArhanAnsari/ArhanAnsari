@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ArhanAnsari/HRMate/pull/3#issuecomment-4168156245) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-2. 🗣 Commented on [#1](https://github.com/ArhanAnsari/HRMate/pull/1#issuecomment-4156415141) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-3. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/HRMate/pull/2) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-4. 💪 Opened PR [#2](https://github.com/ArhanAnsari/HRMate/pull/2) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-5. 🚀 Published release [InvoiceFlow v1.0.4 — Stability Improvements, Sync Fixes & Core Enhancements](https://github.com/ArhanAnsari/InvoiceFlow/releases/tag/v1.0.4) in [ArhanAnsari/InvoiceFlow](https://github.com/ArhanAnsari/InvoiceFlow)
+1. 🗣 Commented on [#4](https://github.com/ArhanAnsari/HRMate/pull/4#issuecomment-4175185201) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+2. 🗣 Commented on [#3](https://github.com/ArhanAnsari/HRMate/pull/3#issuecomment-4168156245) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+3. 🗣 Commented on [#1](https://github.com/ArhanAnsari/HRMate/pull/1#issuecomment-4156415141) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+4. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/HRMate/pull/2) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+5. 💪 Opened PR [#2](https://github.com/ArhanAnsari/HRMate/pull/2) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
 <!--END_SECTION:activity-->
 
 
