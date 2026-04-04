@@ -227,7 +227,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <!--Start Merged PRs-->
 1. 🥳 Merged PR [2](https://github.com/ArhanAnsari/HRMate/pull/2) - [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-2. 🎉 Merged PR [1](https://github.com/sparththaokar07/sparth-portfolio/pull/1) - [sparththaokar07/sparth-portfolio](https://github.com/sparththaokar07/sparth-portfolio)
+2. 🎉 Merged PR [1](https://github.com/sparththaokar07/Praxcodez-by-Parth-Contact-page-here/pull/1) - [sparththaokar07/Praxcodez-by-Parth-Contact-page-here](https://github.com/sparththaokar07/Praxcodez-by-Parth-Contact-page-here)
 3. 🎊 Merged PR [8](https://github.com/swapnasahoo/cric-talk/pull/8) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
 4. 🥂 Merged PR [6](https://github.com/swapnasahoo/cric-talk/pull/6) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
 5. 🙌🏼 Merged PR [5](https://github.com/swapnasahoo/cric-talk/pull/5) - [swapnasahoo/cric-talk](https://github.com/swapnasahoo/cric-talk)
