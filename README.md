@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4223423286) in [appwrite/console](https://github.com/appwrite/console)
-2. 💪 Opened PR [#2968](https://github.com/appwrite/console/pull/2968) in [appwrite/console](https://github.com/appwrite/console)
-3. 🗣 Commented on [#4](https://github.com/ArhanAnsari/HRMate/pull/4#issuecomment-4175185201) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-4. 🗣 Commented on [#3](https://github.com/ArhanAnsari/HRMate/pull/3#issuecomment-4168156245) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-5. 🗣 Commented on [#1](https://github.com/ArhanAnsari/HRMate/pull/1#issuecomment-4156415141) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+1. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4231845175) in [appwrite/console](https://github.com/appwrite/console)
+2. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4223423286) in [appwrite/console](https://github.com/appwrite/console)
+3. 💪 Opened PR [#2968](https://github.com/appwrite/console/pull/2968) in [appwrite/console](https://github.com/appwrite/console)
+4. 🗣 Commented on [#4](https://github.com/ArhanAnsari/HRMate/pull/4#issuecomment-4175185201) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+5. 🗣 Commented on [#3](https://github.com/ArhanAnsari/HRMate/pull/3#issuecomment-4168156245) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
 <!--END_SECTION:activity-->
 
 
