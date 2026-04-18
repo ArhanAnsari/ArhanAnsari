@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4231845175) in [appwrite/console](https://github.com/appwrite/console)
-2. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4223423286) in [appwrite/console](https://github.com/appwrite/console)
-3. 💪 Opened PR [#2968](https://github.com/appwrite/console/pull/2968) in [appwrite/console](https://github.com/appwrite/console)
-4. 🗣 Commented on [#4](https://github.com/ArhanAnsari/HRMate/pull/4#issuecomment-4175185201) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
-5. 🗣 Commented on [#3](https://github.com/ArhanAnsari/HRMate/pull/3#issuecomment-4168156245) in [ArhanAnsari/HRMate](https://github.com/ArhanAnsari/HRMate)
+1. 🗣 Commented on [#1](https://github.com/ArhanAnsari/discord-challenge/pull/1#issuecomment-4273297836) in [ArhanAnsari/discord-challenge](https://github.com/ArhanAnsari/discord-challenge)
+2. 🗣 Commented on [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8#issuecomment-4273265781) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
+3. 💪 Opened PR [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
+4. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4231845175) in [appwrite/console](https://github.com/appwrite/console)
+5. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4223423286) in [appwrite/console](https://github.com/appwrite/console)
 <!--END_SECTION:activity-->
 
 
