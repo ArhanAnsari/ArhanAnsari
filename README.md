@@ -237,10 +237,10 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/ArhanAnsari/discord-challenge/pull/1#issuecomment-4273297836) in [ArhanAnsari/discord-challenge](https://github.com/ArhanAnsari/discord-challenge)
-2. 🗣 Commented on [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8#issuecomment-4273265781) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
-3. 💪 Opened PR [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
-4. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4231845175) in [appwrite/console](https://github.com/appwrite/console)
-5. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4223423286) in [appwrite/console](https://github.com/appwrite/console)
+2. 💪 Opened PR [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
+3. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4231845175) in [appwrite/console](https://github.com/appwrite/console)
+4. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4223423286) in [appwrite/console](https://github.com/appwrite/console)
+5. 💪 Opened PR [#2968](https://github.com/appwrite/console/pull/2968) in [appwrite/console](https://github.com/appwrite/console)
 <!--END_SECTION:activity-->
 
 
