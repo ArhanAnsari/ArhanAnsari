@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/20) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
-2. 🗣 Commented on [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8#issuecomment-4275306141) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
-3. 🗣 Commented on [#1](https://github.com/ArhanAnsari/discord-challenge/pull/1#issuecomment-4273297836) in [ArhanAnsari/discord-challenge](https://github.com/ArhanAnsari/discord-challenge)
-4. 💪 Opened PR [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
-5. 🗣 Commented on [#2968](https://github.com/appwrite/console/pull/2968#issuecomment-4231845175) in [appwrite/console](https://github.com/appwrite/console)
+1. 🎉 Merged PR [#20](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/20) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+2. 💪 Opened PR [#20](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/20) in [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+3. 🗣 Commented on [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8#issuecomment-4275306141) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
+4. 🗣 Commented on [#1](https://github.com/ArhanAnsari/discord-challenge/pull/1#issuecomment-4273297836) in [ArhanAnsari/discord-challenge](https://github.com/ArhanAnsari/discord-challenge)
+5. 💪 Opened PR [#8](https://github.com/JavaScript-Mastery-Pro/discord-challenge/pull/8) in [JavaScript-Mastery-Pro/discord-challenge](https://github.com/JavaScript-Mastery-Pro/discord-challenge)
 <!--END_SECTION:activity-->
 
 
