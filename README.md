@@ -236,11 +236,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ArhanAnsari/appforge/pull/2) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-2. 🎉 Merged PR [#1](https://github.com/ArhanAnsari/appforge/pull/1) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-3. ℹ️ Assigned PR [#1](https://github.com/ArhanAnsari/appforge/pull/1) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-4. ℹ️ Labeled PR [#1](https://github.com/ArhanAnsari/appforge/pull/1) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-5. 💪 Opened PR [#1](https://github.com/ArhanAnsari/appforge/pull/1) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+1. 🚀 Published release [v0.2.0-alpha](https://github.com/ArhanAnsari/appforge/releases/tag/v0.2.0-alpha) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+2. ℹ️ Labeled PR [#2](https://github.com/ArhanAnsari/appforge/pull/2) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+3. ℹ️ Labeled PR [#2](https://github.com/ArhanAnsari/appforge/pull/2) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+4. 🎉 Merged PR [#2](https://github.com/ArhanAnsari/appforge/pull/2) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+5. 💪 Opened PR [#2](https://github.com/ArhanAnsari/appforge/pull/2) in [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
 <!--END_SECTION:activity-->
 
 
