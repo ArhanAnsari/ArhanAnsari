@@ -222,15 +222,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-236-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-237-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [5](https://github.com/ArhanAnsari/appforge/pull/5) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-2. 🎉 Merged PR [3](https://github.com/ArhanAnsari/appforge/pull/3) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-3. 🎊 Merged PR [2](https://github.com/ArhanAnsari/appforge/pull/2) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-4. 🥂 Merged PR [1](https://github.com/ArhanAnsari/appforge/pull/1) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
-5. 🙌🏼 Merged PR [22](https://github.com/ArhanAnsari/Arhans-Portfolio/pull/22) - [ArhanAnsari/Arhans-Portfolio](https://github.com/ArhanAnsari/Arhans-Portfolio)
+1. 🥳 Merged PR [8](https://github.com/ArhanAnsari/appforge/pull/8) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+2. 🎉 Merged PR [5](https://github.com/ArhanAnsari/appforge/pull/5) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+3. 🎊 Merged PR [3](https://github.com/ArhanAnsari/appforge/pull/3) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+4. 🥂 Merged PR [2](https://github.com/ArhanAnsari/appforge/pull/2) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
+5. 🙌🏼 Merged PR [1](https://github.com/ArhanAnsari/appforge/pull/1) - [ArhanAnsari/appforge](https://github.com/ArhanAnsari/appforge)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
